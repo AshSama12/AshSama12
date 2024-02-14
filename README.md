@@ -2,7 +2,7 @@
 
 👋 Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning Java, HTML , CSS ,JavaScript
+- 🌱 I’m currently learning Java, HTML, CSS ,JavaScript and Database
 
 
 
