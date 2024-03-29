@@ -6,7 +6,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashsama12&label=Profile%20views&color=0e75b6&style=flat" alt="ashsama12" /> </p>
   
 - 💼 any freelance work? do reach, [email](samaranayakeams@gmail.com) :)
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium]( https://medium.com/@ashinisamaranayake)
  
 - 🌟 [GitHub Star]( https://github.com/AshSama12) - If you find my projects interesting, consider giving them a star!
 - 👥 [Followers]( https://github.com/AshSama12?tab=followers) - Join my growing community of followers to stay updated on my latest work.
