@@ -8,9 +8,10 @@
 - 💼 any freelance work? do reach, [email](samaranayakeams@gmail.com) :)
 - 📝 I regularly write articles on [Medium](Medium)
  
+- 🌟 [GitHub Star](https://github.com/stars/AshSam12) - If you find my projects interesting, consider giving them a star!
+- 👥 [Followers](https://github.com/AshSam12?tab=followers) - Join my growing community of followers to stay updated on my latest work.
 
-
-
+Thanks for visiting my GitHub profile! Feel free to explore my projects, star your favorites, and connect with me. Let's learn and build together! 🚀
  
 
 
