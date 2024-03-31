@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashsama12&label=Profile%20views&color=0e75b6&style=flat" alt="ashsama12" /> </p>
   
-- 💼 any freelance work? do reach, [email](samaranayakeams@gmail.com) :)
+- 💼 any freelance work? do reach, [samaranayakeams@gmail.com] :)
 - 📝 I regularly write articles on [Medium]( https://medium.com/@ashinisamaranayake)
  
 - 🌟 [GitHub Star]( https://github.com/AshSama12) - If you find my projects interesting, consider giving them a star!
