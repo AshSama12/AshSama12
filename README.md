@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Ashini Samaranayake</h1>
+<h1 align="center">Hi 👋, I'm Ashini Samaranayake</h1>
 <h3 align="center">I am a undergraduate  computer engineer from Sri Lanka.</h3>
 
 
