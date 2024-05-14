@@ -13,7 +13,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashsama12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ashsama12" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashsama12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ashsama12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashsama12&show_icons=true&locale=en&theme=tokyonight" alt="ashsama12" /></p>
 
