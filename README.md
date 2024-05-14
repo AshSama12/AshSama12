@@ -11,6 +11,13 @@
 - 🌟 [GitHub Star]( https://github.com/AshSama12) - If you find my projects interesting, consider giving them a star!
 - 👥 [Followers]( https://github.com/AshSama12?tab=followers) - Join my growing community of followers to stay updated on my latest work.
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashsama12&show_icons=true&locale=en&layout=compact" alt="ashsama12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashsama12&show_icons=true&locale=en" alt="ashsama12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashsama12&" alt="ashsama12" /></p>
+
 Thanks for visiting my GitHub profile! Feel free to explore my projects, star your favorites, and connect with me. Let's learn and build together! 🚀
  
 
