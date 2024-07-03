@@ -3,7 +3,7 @@
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashsama12&label=Profile%20views&color=0e75b6&style=flat" alt="ashsama12" /> </p>
+  <p> <img align="left" src="https://komarev.com/ghpvc/?username=ashsama12&label=Profile%20views&color=0e75b6&style=flat" alt="ashsama12" /> </p>
   
 - 💼 any freelance work? do reach, samaranayakeams@gmail.com
 - 📝 I regularly write articles on [Medium]( https://medium.com/@ashinisamaranayake)
