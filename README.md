@@ -10,6 +10,7 @@
  
 - 🌟 [GitHub Star]( https://github.com/AshSama12) - If you find my projects interesting, consider giving them a star!
 - 👥 [Followers]( https://github.com/AshSama12?tab=followers) - Join my growing community of followers to stay updated on my latest work.
+- contact me
 
 
 
