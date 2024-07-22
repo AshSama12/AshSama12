@@ -5,7 +5,8 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="230" />
   <p> <img align="left" src="https://komarev.com/ghpvc/?username=ashsama12&label=Profile%20views&color=0e75b6&style=flat" alt="ashsama12" /> </p>
   
-  
+  - Sri Lanka's Most Contribution GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/AshSama12.svg)](https://user-badgehttps://user-badge.committers.top/sri_lanka/AshSama12.committers.top/sri_lanka_public/AshSama12)
+- Sri Lanka's Most Active GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka/AshSama12.svg)](https://user-badge.committers.top/sri_lanka/ASHSama12)
 
 
 - 💼 [contact me]( samaranayake@gmail.com ) 
