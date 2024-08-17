@@ -9,7 +9,7 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=ashsama12&label=Profile%20views&color=0e75b6&style=flat" alt="ashsama12" />
 </p>
 
-<img align="left" alt="GIF" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="300" />
+<img align="rightt" alt="GIF" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" width="300" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashini-samaranayake-756502225/) 
