@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Ashini Samaranayake.</h1>
-<h3 align="center">I am a final year Computer Engineering student from UOJ Sri Lanka. </h3>
+<h3 align="center">I am a final-year Computer Engineering student from UOJ Sri Lanka. </h3>
 
 <p>
   <img align="left" src="https://komarev.com/ghpvc/?username=ashsama12&label=Profile%20views&color=0e75b6&style=flat" alt="ashsama12" />
