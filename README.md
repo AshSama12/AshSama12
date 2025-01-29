@@ -30,8 +30,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AshSama12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-Thanks for visiting my GitHub profile! Feel free to explore my projects, star your favorites, and connect with me.
+*Thanks for visiting my GitHub profile! Feel free to explore my projects, star your favorites, and connect with me.*
 
-Let's learn and build together! 🚀
+**Let's learn and build together! 🚀**
 
 <img align="center" alt="GIF" src="cat-jump.gif" width="50%" />
