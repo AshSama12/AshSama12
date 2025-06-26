@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ashini Samaranayake</h1>
+<h1 align="center">Hi 👋, I'm Ashini Samaranayake.</h1>
 <h3 align="center">I am a final-year Computer Engineering student from UOJ Sri Lanka. </h3>
 
 <p>
